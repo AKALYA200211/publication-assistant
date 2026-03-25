@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+gemini
+langchain-gemini
+requests
+python-dotenv
